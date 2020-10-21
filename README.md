@@ -4,3 +4,8 @@ git and github Tutorium for the 2. semester at the University of Applied Science
 
 change the git Editor to nano
 `git config --global core.editor "nano"`
+
+
+## Copy GitHub Lables
+
+https://github.com/jvandemo/copy-github-labels-cli
